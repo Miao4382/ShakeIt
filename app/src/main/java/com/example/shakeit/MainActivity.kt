@@ -1,3 +1,4 @@
+// checking compatibility
 package com.example.shakeit
 
 import android.content.Context
